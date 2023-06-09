@@ -1,2 +1,2 @@
 #!/bin/ban
-ls -xamp
+ls -amvp
